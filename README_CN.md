@@ -310,6 +310,11 @@ MedGo 采用**两阶段微调策略**，兼顾通用医学知识与临床任务�
 - [Qwen Team](https://github.com/QwenLM/Qwen) 提供优秀的基础模型
 - 所有提供数据和反馈的医疗机构
 
+著作权：同济大学附属东方医院
+技术支持：上海烁乐信息科技有限公司
+Copyright: Tongji University Affiliated East Hospital
+Technical Support: Shanghai Shuole Information Technology Co., Ltd.
+
 ## 📧 联系方式
 
 - **HuggingFace**: [模型主页](https://huggingface.co/OpenMedZoo/MedGo)
