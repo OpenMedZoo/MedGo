@@ -311,6 +311,11 @@ Special thanks to:
 - [Qwen Team](https://github.com/QwenLM/Qwen) for providing excellent foundation models
 - All healthcare institutions that provided data and feedback
 
+## Copyright
+Copyright: Tongji University Affiliated East Hospital
+
+Technical Support: Shanghai Shuole Information Technology Co., Ltd.
+
 ## 📧 Contact
 
 - **HuggingFace**: [Model Homepage](https://huggingface.co/OpenMedZoo/MedGo)
