@@ -312,9 +312,13 @@ Special thanks to:
 - All healthcare institutions that provided data and feedback
 
 ## Copyright
-Copyright: Tongji University Affiliated East Hospital
+- Publisher: Tongji University Affiliated East Hospital — Sole Corresponding Author
+- Co-developer / Technical Support: Shanghai Shuole Technology Co., Ltd.
+- Contact: dongfyy@pudong.gov.cn
+- Version: v1.0
+- Attribution (required):
+“Powered by Med-Go 32B, released by Tongji University Affiliated East Hospital (v1.0).”
 
-Technical Support: Shanghai Shuole Information Technology Co., Ltd.
 
 ## 📧 Contact
 
